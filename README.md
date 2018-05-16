@@ -1,4 +1,4 @@
-# simple-activities - Transfer data from one activity to another.
+# Android Simple Activities
 This project has two activities. Here you will learn how to transfer data from one activity to another.
 * This projet is developed using Android Studio.
 * targetSdkVersion is 27.
